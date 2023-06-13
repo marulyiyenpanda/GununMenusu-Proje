@@ -1,0 +1,9 @@
+<!-- button_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#673AB7" /> <!-- Butonun arka plan rengi -->
+    <corners android:radius="8dp" /> <!-- Butonun köşelerinin yuvarlaklığı -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- Butonun kenarlık rengi ve kalınlığı -->
+</shape>
